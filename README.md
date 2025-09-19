@@ -1,44 +1,33 @@
 # Travel Website
 
-A complete PHP travel website with enquiry management system and dark mode functionality.
+A complete PHP travel website with enquiry management system and admin panel for managing travel destinations and customer enquiries.
 
-## Features
+## 🌟 Features
 
-- 🌍 **Country Destinations**: Browse different travel destinations
-- 📧 **Enquiry System**: Customers can submit travel enquiries
-- 👨‍💼 **Admin Panel**: View and manage customer enquiries
-- 🌙 **Dark Mode**: Toggle between light and dark themes
-- 📱 **Responsive Design**: Works on all devices
-- 🎨 **Bootstrap 5**: Modern and clean UI
+- 🌍 **Country Destinations**: Browse different travel destinations with detailed information
+- 📧 **Enquiry System**: Customers can submit travel enquiries with contact details
+- 👨‍💼 **Admin Panel**: View and manage customer enquiries efficiently
+- 📱 **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
+- 🎨 **Bootstrap 5**: Modern and clean user interface
+- 🔒 **Secure Forms**: Protected form submissions with validation
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap 5
-- **Backend**: PHP 7+
-- **Database**: MySQL
-- **Server**: Apache (XAMPP)
+- **Backend**: PHP 8.0+
+- **Database**: MySQL 8.0 / MariaDB
+- **Server**: Apache (XAMPP for local development)
+- **Version Control**: Git & GitHub
 
-## Setup Instructions
+## 📋 Prerequisites
 
-### Prerequisites
-- XAMPP or similar local server
-- Web browser
+Before running this project, make sure you have:
 
-### Installation
+- **Web Server**: XAMPP, WAMP, or similar local server environment
+- **PHP**: Version 8.0 or higher
+- **MySQL**: Version 8.0 or higher
+- **Web Browser**: Chrome, Firefox, Safari, or Edge
 
-1. **Download/Clone this repository**
-2. **Copy to XAMPP directory**: Place in `C:\xampp\htdocs\travel-website\`
-3. **Start XAMPP**: Start Apache and MySQL services
-4. **Create Database**:
-   - Open phpMyAdmin: `http://localhost/phpmyadmin/`
-   - Create database named `travel_website`
-   - Import the SQL file from `database/` folder
-5. **Configure Database**: Update `config/database.php` with your settings
-6. **Access Website**: Visit `http://localhost/travel-website/`
+## 🚀 Installation
 
-### Admin Panel
-- Access: `http://localhost/travel-website/admin/`
-- View customer enquiries and manage the system
-
-## File Structure
-
+### Step 1: Download the Project
