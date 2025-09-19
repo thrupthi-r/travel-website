@@ -31,7 +31,7 @@ Before running this project, make sure you have:
 ## 🚀 Installation
 
 ### Step 1: Download the Project
-git clone https://github.com/yourusername/travel-website.git
+git clone https://github.com/thrupthi-r/travel-website.git
 cd travel-website
 
 
